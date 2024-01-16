@@ -7,7 +7,7 @@ In this analysis, the goal was to build and evaluate a machine learning model to
 
 **Purpose of the Analysis:** The purpose of the analysis was to assess the credit risk associated with loans by leveraging machine learning techniques. The goal was to create a model that could effectively classify loans into two categories: healthy loans (0) and high-risk loans (1).
 
-* **Financial Information:** The dataset, sourced from the "lending_data.csv" file, contained various financial attributes related to loan transactions. The target variable for prediction was the "loan_status" column, where a value of 0 indicated a healthy loan, and a value of 1 indicated a high risk of default.
+**Financial Information:** The dataset, sourced from the "lending_data.csv" file, contained various financial attributes related to loan transactions. The target variable for prediction was the "loan_status" column, where a value of 0 indicated a healthy loan, and a value of 1 indicated a high risk of default.
 
 **Variables to Predict:** The variable of interest was the "loan_status" column, representing the credit risk associated with each loan. The analysis aimed to predict whether a loan falls into the category of healthy or high-risk.
 
